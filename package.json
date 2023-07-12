@@ -1,0 +1,11 @@
+{
+  "name": "practice-node",
+  "version": "1.0.0",
+  "description": "Just Practicing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Asif Mosharraf",
+  "license": "ISC"
+}
