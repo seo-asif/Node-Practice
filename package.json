@@ -4,7 +4,7 @@
   "description": "Just Practicing",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node fileSystem.js"
   },
   "author": "Asif Mosharraf",
   "license": "ISC"
